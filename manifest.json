@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-ref-creator",
+	"name": "Ref Creator",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Insert a link to ./_REF/<text> and create the corresponding note file.",
+	"author": "Juicer223",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
